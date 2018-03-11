@@ -1,0 +1,19 @@
+{
+	"one": [
+		{
+			"dencity": 2, "friction": 0, "bounce": 0,
+			"filters": {"categoryBits": 1, "maskBits": 655535},
+			"shape": [ 78,16 , 169,16 , 175,29 , 167,37 , 80,37 , 72,26 ]
+		},
+		{
+			"dencity": 2, "friction": 0, "bounce": 0,
+			"filters": {"categoryBits": 1, "maskBits": 655535},
+			"shape": [ 113,40 , 131,40 , 135,92 , 115,92 ]
+		},
+		{
+			"dencity": 2, "friction": 0, "bounce": 0,
+			"filters": {"categoryBits": 1, "maskBits": 655535},
+			"shape": [ 115,92 , 136,93 , 166,114 , 181,140 , 185,182 , 174,209 , 158,230 , 95,234 , 72,213 , 64,185 , 62,152 , 70,127 , 86,107 ]
+		}
+	]
+}

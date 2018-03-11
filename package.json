@@ -1,0 +1,25 @@
+{
+  "name": "voleyball",
+  "version": "1.0.0",
+  "description": "None description",
+  "main": "node server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dehavilland95/volleyball.git"
+  },
+  "author": "MV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dehavilland95/volleyball/issues"
+  },
+  "homepage": "https://github.com/dehavilland95/volleyball#readme"
+}
